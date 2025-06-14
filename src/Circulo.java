@@ -1,15 +1,15 @@
 public class Circulo {
-    private double radio;
+    private int radio;
 
-    public Circulo(double radio) {
+    public Circulo(int radio) {
         this.radio = radio;
     }
 
-    public double getRadio() {
+    public int getRadio() {
         return radio;
     }
 
-    public void setRadio(double radio) {
+    public void setRadio(int radio) {
         this.radio = radio;
     }
 
